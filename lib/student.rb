@@ -12,6 +12,14 @@ class Student
     @name = name
     @grade = grade
   end
+  
+  def self.create_table
+    
+  end
+  
+  def self.drop_table
+    
+  end
 
 
 end
